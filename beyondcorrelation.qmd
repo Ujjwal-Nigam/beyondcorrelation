@@ -1,7 +1,13 @@
 ---
-title: "beyondcorrelation"
+title: "Beyond Correlation"
+format: html
 ---
 
-## Quarto
+Welcome to Beyond Correlation. This project aims to answer a very simple question: **How do economists know things?** 
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+The instinct of any other social scientist would be to say, "they don't," which isn't entirely unfair but does not give the full picture. An economist however, may answer by handing you a copy of *Mastering 'Metrics* by Joshua Angrist or a Wooldridge textbook. These are fine resources, wonderful for the classroom setting and clearly written by the best of the best. That being said, they are difficult reads, and sometimes, the overly technical and academic language can lose a reader quickly. It is also of note that the average university student *no longer reads*, which is its own problem but I cannot solve that. 
+
+So, in setting out to answer the question, "How do economists know things?", I will attempt to walk through some of the commonly used statistical methods that you can find in policy research, academic papers, and business and government reports. Each method will be attached to a case study, usually a paper, that used the method in discussion to answer a problem. 
+
+In the future, there will also be a refresher on statistics, some recommended programming knowledge, and interactive charts and tables. 
+
